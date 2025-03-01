@@ -2,12 +2,12 @@
 Saya Haniel Septian Putra Alren dengan NIM 2310978 mengerjakan Tugas Praktikum 2 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 # Penjelasan Atribut dan Methods
 Atribut yang saya gunakan berdasarkan kelas :
-PetShop :
+1. PetShop :
 integer : ID, harga_produk,stok_produk
 string : nama_produk
-Aksesoris :
+2. Aksesoris :
 string : jenis,bahan,warna
-baju :
+3. baju :
 string : size dan merk
 methods yang saya gunakan merupakan getter dan setter untuk setiap atribut yang ada
 # Penjelasan Alur Program (CPP,JAVA,Python)
