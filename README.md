@@ -9,6 +9,7 @@ Atribut yang saya gunakan berdasarkan kelas :
 - string : jenis,bahan,warna
 3. baju :
 - string : size dan merk.
+
 methods yang saya gunakan merupakan getter dan setter untuk setiap atribut yang ada
 # Penjelasan Alur Program (CPP,JAVA,Python)
 1. Setelah membuat class dengan atribut dan method di dalamnya main di buat.
