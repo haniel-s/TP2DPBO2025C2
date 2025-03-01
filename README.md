@@ -3,12 +3,12 @@ Saya Haniel Septian Putra Alren dengan NIM 2310978 mengerjakan Tugas Praktikum 2
 # Penjelasan Atribut dan Methods
 Atribut yang saya gunakan berdasarkan kelas :
 1. PetShop :
-integer : ID, harga_produk,stok_produk
-string : nama_produk
+- integer : ID, harga_produk,stok_produk
+- string : nama_produk
 2. Aksesoris :
-string : jenis,bahan,warna
+- string : jenis,bahan,warna
 3. baju :
-string : size dan merk
+- string : size dan merk.
 methods yang saya gunakan merupakan getter dan setter untuk setiap atribut yang ada
 # Penjelasan Alur Program (CPP,JAVA,Python)
 1. Setelah membuat class dengan atribut dan method di dalamnya main di buat.
