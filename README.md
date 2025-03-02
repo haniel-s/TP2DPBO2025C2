@@ -12,7 +12,7 @@ Atribut yang saya gunakan berdasarkan kelas :
 
 methods yang saya gunakan merupakan getter dan setter untuk setiap atribut yang ada
 
-#Diagram hubungan antar Class 
+# Diagram hubungan antar Class 
 
 ![Haniel drawio](https://github.com/user-attachments/assets/c2b46e52-b6e5-4e86-b424-ed28622ba264)
 
