@@ -25,4 +25,5 @@ Karena setiap atribut yang dibutuhkan pada class **petshop** dan **aksesoris** t
 ![Screenshot (422)](https://github.com/user-attachments/assets/079f2b37-2c52-4838-93c4-b23dd158635f)
 # Dokumentasi JAVA
 ![Screenshot (423)](https://github.com/user-attachments/assets/faf3f1de-7a16-4329-8f41-dd94f32f587c)
-
+# Dokumentasi PHP
+![Screenshot (424)](https://github.com/user-attachments/assets/c3c68c02-f45b-4df9-917a-ccd481b026a5)
