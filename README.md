@@ -26,7 +26,7 @@ Karena setiap atribut yang dibutuhkan pada class **petshop** dan **aksesoris** t
 5. setelah tabel di print user akan ditanya apakah ingin melakukan proses ADD input dapat berupa Y/y atau N/n
 6. jika user memilih Y maka user akan di minta menginput seluruh atribut yang dibutuhkan
 7. setelah diinput list setelah ditambah data dari user akan muncul
-8. # Penjelasan Alur Program (PHP)
+# Penjelasan Alur Program (PHP)
 1. Setelah membuat class dengan atribut dan method di dalamnya main di buat.
 Karena **baju** merupakan **grandchild** dari petshop dan **child** dari aksesoris saya hanya memanggil dan menginisialisasikan class **baju**.
 Karena setiap atribut yang dibutuhkan pada class **petshop** dan **aksesoris** telah diwariskan kepada baju sehingga jika memang dibutuhkan class petshop dan aksesoris maka hanya butuh dikurangi atribut yang diinput dan di print.
